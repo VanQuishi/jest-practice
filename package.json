@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanQuishi/jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanQuishi/jest-practice/issues"
+  },
+  "homepage": "https://github.com/VanQuishi/jest-practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
